@@ -1,0 +1,4382 @@
+[
+    {
+        "domain": "123mail.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "123mail.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "126.com",
+        "imap_server": "appleimap.126.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "12fuel.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "12mail.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "12move.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "139.com",
+        "imap_server": "imap.139.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "150mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "150ml.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "163.com",
+        "imap_server": "appleimap.163.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "16mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "188.com",
+        "imap_server": "applesmtp.188.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "189.cn",
+        "imap_server": "imap.189.cn",
+        "pop3_server": null
+    },
+    {
+        "domain": "2-mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "21cn.com",
+        "imap_server": "imap.21cn.com",
+        "pop3_server": "pop.21cn.com"
+    },
+    {
+        "domain": "2die4.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "2senior.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "3g.ua",
+        "imap_server": null,
+        "pop3_server": "pop.3g.ua"
+    },
+    {
+        "domain": "4email.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "50mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "aapt.net.au",
+        "imap_server": "mail.aapt.net.au",
+        "pop3_server": "mail.aapt.net.au"
+    },
+    {
+        "domain": "abv.bg",
+        "imap_server": null,
+        "pop3_server": "pop3.abv.bg"
+    },
+    {
+        "domain": "accountant.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "acsalaska.net",
+        "imap_server": "mail.acsalaska.net",
+        "pop3_server": "mail.acsalaska.net"
+    },
+    {
+        "domain": "activist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "adam.com.au",
+        "imap_server": "mail.adam.com.au",
+        "pop3_server": "mail.adam.com.au"
+    },
+    {
+        "domain": "adelphia.net",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.adelphia.net"
+    },
+    {
+        "domain": "adexec.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "adinet.com.uy",
+        "imap_server": "adinet.com.uy",
+        "pop3_server": "adinet.com.uy"
+    },
+    {
+        "domain": "africamail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "aim.com",
+        "imap_server": "imap.aol.com",
+        "pop3_server": "pop.aim.com"
+    },
+    {
+        "domain": "aircraftmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "airmail.net",
+        "imap_server": "imap.airmail.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "airpost.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "alice.it",
+        "imap_server": "in.alice.it",
+        "pop3_server": null
+    },
+    {
+        "domain": "aliceadsl.fr",
+        "imap_server": null,
+        "pop3_server": "pop.aliceadsl.fr"
+    },
+    {
+        "domain": "allergist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "allmail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "alumnidirector.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "alumni.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "ameritech.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "amorki.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": "pop3.poczta.onet.pl"
+    },
+    {
+        "domain": "anarki.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "anderledes.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "angelic.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "aol.com",
+        "imap_server": "imap.aol.com",
+        "pop3_server": "pop.aol.com"
+    },
+    {
+        "domain": "aol.co.uk",
+        "imap_server": "imap.aol.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "aol.com.au",
+        "imap_server": "imap.aol.com",
+        "pop3_server": "pop.aol.com"
+    },
+    {
+        "domain": "aol.de",
+        "imap_server": "imap.aol.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "aol.fr",
+        "imap_server": "imap.aol.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "aol.jp",
+        "imap_server": "imap.aol.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "archaeologist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "arcor.de",
+        "imap_server": "imap.arcor.de",
+        "pop3_server": "pop3.arcor.de"
+    },
+    {
+        "domain": "arnet.com.ar",
+        "imap_server": null,
+        "pop3_server": "pop3.arnet.com.ar"
+    },
+    {
+        "domain": "artlover.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "arvig.net",
+        "imap_server": "imap.arvig.net",
+        "pop3_server": "pop3.arvig.net"
+    },
+    {
+        "domain": "asia-mail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "atheist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "atlanticbb.net",
+        "imap_server": null,
+        "pop3_server": "pop.atlanticbb.net"
+    },
+    {
+        "domain": "atlas.cz",
+        "imap_server": null,
+        "pop3_server": "pop.atlas.cz"
+    },
+    {
+        "domain": "att.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "austin.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "australiamail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "autograf.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": "pop3.poczta.onet.pl"
+    },
+    {
+        "domain": "azet.sk",
+        "imap_server": "imap.azet.sk",
+        "pop3_server": null
+    },
+    {
+        "domain": "bartender.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "begavet.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "bell.net",
+        "imap_server": null,
+        "pop3_server": "pophm.sympatico.ca"
+    },
+    {
+        "domain": "bellaliant.net",
+        "imap_server": "imap.bellaliant.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "bellnet.ca",
+        "imap_server": null,
+        "pop3_server": "pop.bellnet.ca"
+    },
+    {
+        "domain": "bellsouth.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "bellatlantic.net",
+        "imap_server": "imap.aol.com",
+        "pop3_server": "pop.aol.com"
+    },
+    {
+        "domain": "berlin.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "berlin.de",
+        "imap_server": "mail.berlin.de",
+        "pop3_server": "mail.berlin.de"
+    },
+    {
+        "domain": "bestmail.us",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "bigfoot.com",
+        "imap_server": "bigfoot.com",
+        "pop3_server": "bigfoot.com"
+    },
+    {
+        "domain": "bigger.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "bigpond.com.au",
+        "imap_server": "mail.bigpond.com.au",
+        "pop3_server": "mail.bigpond.com.au"
+    },
+    {
+        "domain": "bigpond.net",
+        "imap_server": "imap.telstra.com",
+        "pop3_server": "pop.telstra.com"
+    },
+    {
+        "domain": "bigpond.net.au",
+        "imap_server": "imap.telstra.com",
+        "pop3_server": "pop.telstra.com"
+    },
+    {
+        "domain": "bigpond.com",
+        "imap_server": "imap.telstra.com",
+        "pop3_server": "pop.telstra.com"
+    },
+    {
+        "domain": "bikerider.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "birdlover.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "bitnisse.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "bk.ru",
+        "imap_server": "imap.mail.ru",
+        "pop3_server": "pop.mail.ru"
+    },
+    {
+        "domain": "blader.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "blu.it",
+        "imap_server": "imapmail.libero.it",
+        "pop3_server": "popmail.libero.it"
+    },
+    {
+        "domain": "bluewin.ch",
+        "imap_server": "imaps.bluewin.ch",
+        "pop3_server": "pop3s.bluewin.ch"
+    },
+    {
+        "domain": "bluemail.ch",
+        "imap_server": "imaps.bluewin.ch",
+        "pop3_server": "pop3s.bluewin.ch"
+    },
+    {
+        "domain": "blueyonder.co.uk",
+        "imap_server": "imap.blueyonder.co.uk",
+        "pop3_server": "pop3.blueyonder.co.uk"
+    },
+    {
+        "domain": "boardermail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "bol.com.br",
+        "imap_server": null,
+        "pop3_server": "pop3.bol.com.br"
+    },
+    {
+        "domain": "brazilmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "bredband.net",
+        "imap_server": "imap.bredband.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "bresnan.net",
+        "imap_server": "mail.bresnan.net",
+        "pop3_server": "mail.bresnan.net"
+    },
+    {
+        "domain": "brew-master.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "btconnect.com",
+        "imap_server": null,
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "btinternet.com",
+        "imap_server": "mail.btinternet.com",
+        "pop3_server": "mail.btinternet.com"
+    },
+    {
+        "domain": "btopenworld.com",
+        "imap_server": "mail.btinternet.com",
+        "pop3_server": "mail.btinternet.com"
+    },
+    {
+        "domain": "ca.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "cableone.net",
+        "imap_server": "mail.cableone.net",
+        "pop3_server": "mail.cableone.net"
+    },
+    {
+        "domain": "californiamail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "cantv.net",
+        "imap_server": null,
+        "pop3_server": "pop.cantv.net"
+    },
+    {
+        "domain": "caramail.com",
+        "imap_server": "imap.caramail.com",
+        "pop3_server": "pop.caramail.com"
+    },
+    {
+        "domain": "carolina.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "casema.nl",
+        "imap_server": "imap.ziggo.nl",
+        "pop3_server": "pop.ziggo.nl"
+    },
+    {
+        "domain": "catlover.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "centrum.sk",
+        "imap_server": null,
+        "pop3_server": "pop3.centrum.sk"
+    },
+    {
+        "domain": "centrum.cz",
+        "imap_server": null,
+        "pop3_server": "pop3.centrum.cz"
+    },
+    {
+        "domain": "centurylink.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "centurytel.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "cfl.rr.com",
+        "imap_server": "mail.brighthouse.com",
+        "pop3_server": "mail.brighthouse.com"
+    },
+    {
+        "domain": "cgac.es",
+        "imap_server": "mail.cgac.es",
+        "pop3_server": "mail.cgac.es"
+    },
+    {
+        "domain": "cgocable.ca",
+        "imap_server": "mail.cgocable.ca",
+        "pop3_server": "mail.cgocable.ca"
+    },
+    {
+        "domain": "charter.com",
+        "imap_server": "mobile.charter.net",
+        "pop3_server": "pop.charter.net"
+    },
+    {
+        "domain": "charter.net",
+        "imap_server": "mobile.charter.net",
+        "pop3_server": "pop.charter.net"
+    },
+    {
+        "domain": "cheerful.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "chef.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "chello.nl",
+        "imap_server": "imap.ziggo.nl",
+        "pop3_server": "pop.ziggo.nl"
+    },
+    {
+        "domain": "chemist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "chez.com",
+        "imap_server": null,
+        "pop3_server": "pop.chez.com"
+    },
+    {
+        "domain": "chinamail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "cinci.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "citlink.net",
+        "imap_server": null,
+        "pop3_server": "pop3.frontier.com"
+    },
+    {
+        "domain": "citiz.net",
+        "imap_server": null,
+        "pop3_server": "vip.citiz.net"
+    },
+    {
+        "domain": "city.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "clds.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "clear.net.nz",
+        "imap_server": "imap.clear.net.nz",
+        "pop3_server": "pop.clear.net.nz"
+    },
+    {
+        "domain": "clearwire.net",
+        "imap_server": "imap.gmail.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "clerk.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "cliffhanger.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "club-internet.fr",
+        "imap_server": "imap.sfr.fr",
+        "pop3_server": null
+    },
+    {
+        "domain": "cluemail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "coastalnow.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "cogeco.ca",
+        "imap_server": "imap.cogeco.ca",
+        "pop3_server": null
+    },
+    {
+        "domain": "collector.org",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "columbia.edu",
+        "imap_server": "imap.gmail.com",
+        "pop3_server": "pop.gmail.com"
+    },
+    {
+        "domain": "columbus.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "columnist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "comcast.net",
+        "imap_server": "imap.comcast.net",
+        "pop3_server": "mail.comcast.net"
+    },
+    {
+        "domain": "comic.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "comporium.net",
+        "imap_server": "mail.comporium.net",
+        "pop3_server": "mail.comporium.net"
+    },
+    {
+        "domain": "computer4u.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "compuserve.com",
+        "imap_server": "imap.aol.com",
+        "pop3_server": "pop.aol.com"
+    },
+    {
+        "domain": "concentric.net",
+        "imap_server": null,
+        "pop3_server": "pop3.concentric.net"
+    },
+    {
+        "domain": "consultant.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "contractor.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "cool.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "coolsite.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "counsellor.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "covad.net",
+        "imap_server": null,
+        "pop3_server": "pop3.covad.net"
+    },
+    {
+        "domain": "cox.com",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "coxmail.com",
+        "imap_server": "imap.coxmail.com",
+        "pop3_server": "pop.coxmail.com"
+    },
+    {
+        "domain": "cpinternet.com",
+        "imap_server": "mail.cpinternet.com",
+        "pop3_server": "mail.cpinternet.com"
+    },
+    {
+        "domain": "cox.net",
+        "imap_server": "imap.cox.net",
+        "pop3_server": "pop.cox.net"
+    },
+    {
+        "domain": "cs.com",
+        "imap_server": "imap.aol.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "cswnet.com",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "csi.com",
+        "imap_server": "imap.csi.com",
+        "pop3_server": "pop.csi.com"
+    },
+    {
+        "domain": "cyberdude.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "cyberdude.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "cybergal.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "cyber-wizard.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "cyberjunkie.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "dallasmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "daum.net",
+        "imap_server": "imap.hanmail.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "dbzmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "deliveryman.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "diplomats.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "disciples.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "dishmail.net",
+        "imap_server": "mail.dishmail.net",
+        "pop3_server": "mail.dishmail.net"
+    },
+    {
+        "domain": "dnainternet.net",
+        "imap_server": "mail.dnainternet.net",
+        "pop3_server": "mail.dnainternet.net"
+    },
+    {
+        "domain": "dodo.com.au",
+        "imap_server": null,
+        "pop3_server": "pop.dodo.com.au"
+    },
+    {
+        "domain": "doglover.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "doramail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "dr.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "drivehq.com",
+        "imap_server": "mail.drivehq.com",
+        "pop3_server": "mail.drivehq.com"
+    },
+    {
+        "domain": "dslextreme.com",
+        "imap_server": "mail.dslextreme.com",
+        "pop3_server": "mail.dslextreme.com"
+    },
+    {
+        "domain": "dublin.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "dutchmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "earthlink.net",
+        "imap_server": "imap.earthlink.net",
+        "pop3_server": "pop.earthlink.net"
+    },
+    {
+        "domain": "earthling.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "eastlink.ca",
+        "imap_server": "mail.eastlink.ca",
+        "pop3_server": null
+    },
+    {
+        "domain": "ec.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "eircom.net",
+        "imap_server": null,
+        "pop3_server": "webmail.eircom.net"
+    },
+    {
+        "domain": "elinstallatoer.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "elitemail.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "elsker.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "elp.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "elvis.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "emadisonriver.com",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "emadisonriver.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "elvisfan.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "email.cz",
+        "imap_server": "imap.email.cz",
+        "pop3_server": "pop.email.cz"
+    },
+    {
+        "domain": "email.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "email.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "email.it",
+        "imap_server": null,
+        "pop3_server": "pop.email.it"
+    },
+    {
+        "domain": "email.su",
+        "imap_server": "imap.yandex.com",
+        "pop3_server": "pop.yandex.com"
+    },
+    {
+        "domain": "email.ua",
+        "imap_server": null,
+        "pop3_server": "pop.email.ua"
+    },
+    {
+        "domain": "emailcorner.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "emailengine.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "emailengine.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "emailgroups.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "emailplus.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "emailuser.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "embarqmail.com",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "eml.cc",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "engineer.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "englandmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "epix.net",
+        "imap_server": null,
+        "pop3_server": "pop3.frontier.com"
+    },
+    {
+        "domain": "eresmas.com",
+        "imap_server": null,
+        "pop3_server": "pop.eresmas.com"
+    },
+    {
+        "domain": "erols.com",
+        "imap_server": null,
+        "pop3_server": "pop.erols.com"
+    },
+    {
+        "domain": "eunet.rs",
+        "imap_server": null,
+        "pop3_server": "pop.eunet.rs"
+    },
+    {
+        "domain": "europe.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "europemail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "everyone.net",
+        "imap_server": "imap.everyone.net",
+        "pop3_server": "pop.everyone.net"
+    },
+    {
+        "domain": "excite.com",
+        "imap_server": "imap.excite.com",
+        "pop3_server": "pop3.excite.com"
+    },
+    {
+        "domain": "execs.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "exemail.com.au",
+        "imap_server": null,
+        "pop3_server": "pop3.[state].exemail.com.au"
+    },
+    {
+        "domain": "ezweb.ne.jp",
+        "imap_server": "imap.ezweb.ne.jp",
+        "pop3_server": null
+    },
+    {
+        "domain": "f-m.fm",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fald.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "fan.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "fast-email.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fast-mail.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastem.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastemail.us",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastemailer.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastimap.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.cn",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.co.uk",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastest.cc",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.com.au",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.es",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.fm",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.jp",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.in",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.to",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmailbox.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmail.us",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastmessaging.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fastwebnet.it",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fea.st",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fedt.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "feminin.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "financier.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "fireman.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "fmail.co.uk",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fmailbox.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fmguy.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fmgirl.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "forening.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "forthnet.gr",
+        "imap_server": "mail.forthnet.gr",
+        "pop3_server": "mail.forthnet.gr"
+    },
+    {
+        "domain": "foxmail.com",
+        "imap_server": "imap.qq.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "free.fr",
+        "imap_server": "imap.free.fr",
+        "pop3_server": "pop.free.fr"
+    },
+    {
+        "domain": "freeler.nl",
+        "imap_server": "imap.kpnmail.nl",
+        "pop3_server": "pop.kpnmail.nl"
+    },
+    {
+        "domain": "freemail.hu",
+        "imap_server": null,
+        "pop3_server": "mail.freemail.hu"
+    },
+    {
+        "domain": "freeola.net",
+        "imap_server": "mail.freeola.net",
+        "pop3_server": "mail.freeola.net"
+    },
+    {
+        "domain": "freeola.com",
+        "imap_server": "mail.freeola.net",
+        "pop3_server": "mail.freeola.net"
+    },
+    {
+        "domain": "freenet.de",
+        "imap_server": null,
+        "pop3_server": "mx.freenet.de"
+    },
+    {
+        "domain": "freeuk.com",
+        "imap_server": null,
+        "pop3_server": "pop.freeuk.com"
+    },
+    {
+        "domain": "freeuk.net",
+        "imap_server": null,
+        "pop3_server": "pop.freeuk.net"
+    },
+    {
+        "domain": "freezone.co.uk",
+        "imap_server": "mail.freezone.co.uk",
+        "pop3_server": "mail.freezone.co.uk"
+    },
+    {
+        "domain": "fromru.com",
+        "imap_server": "mail.fromru.com",
+        "pop3_server": "mail.fromru.com"
+    },
+    {
+        "domain": "frontiernet.net",
+        "imap_server": null,
+        "pop3_server": "pop3.frontier.com"
+    },
+    {
+        "domain": "frontier.com",
+        "imap_server": null,
+        "pop3_server": "pop3.frontier.com"
+    },
+    {
+        "domain": "ftc-i.net",
+        "imap_server": "mail.ftc-i.net",
+        "pop3_server": "mail.ftc-i.net"
+    },
+    {
+        "domain": "ftml.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "fusemail.com",
+        "imap_server": "mail.fusemail.com",
+        "pop3_server": "mail.fusemail.com"
+    },
+    {
+        "domain": "fuse.net",
+        "imap_server": null,
+        "pop3_server": "pop.fuse.net"
+    },
+    {
+        "domain": "gadefejer.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "gallatinriver.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "gardener.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "gci.net",
+        "imap_server": "mail.gci.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "germanymail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "geologist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "globo.com",
+        "imap_server": "imap.globo.com",
+        "pop3_server": "pop.globo.com"
+    },
+    {
+        "domain": "gmail.com",
+        "imap_server": "imap.gmail.com",
+        "pop3_server": "pop.gmail.com"
+    },
+    {
+        "domain": "gmx.at",
+        "imap_server": null,
+        "pop3_server": "pop.gmx.net"
+    },
+    {
+        "domain": "gmx.ch",
+        "imap_server": null,
+        "pop3_server": "pop.gmx.net"
+    },
+    {
+        "domain": "gmx.com",
+        "imap_server": "imap.gmx.com",
+        "pop3_server": "pop.gmx.com"
+    },
+    {
+        "domain": "gmx-topmail.de",
+        "imap_server": "imap.gmx-topmail.de",
+        "pop3_server": "pop.gmx-topmail.de"
+    },
+    {
+        "domain": "gmx.fr",
+        "imap_server": "imap.gmx.fr",
+        "pop3_server": "pop.gmx.fr"
+    },
+    {
+        "domain": "gmx.co.uk",
+        "imap_server": "imap.gmx.co.uk",
+        "pop3_server": "pop.gmx.co.uk"
+    },
+    {
+        "domain": "gazeta.pl",
+        "imap_server": "imap.gazeta.pl",
+        "pop3_server": "pop3.gazeta.pl"
+    },
+    {
+        "domain": "gmx.net",
+        "imap_server": null,
+        "pop3_server": "pop.gmx.net"
+    },
+    {
+        "domain": "gmx.de",
+        "imap_server": null,
+        "pop3_server": "pop.gmx.net"
+    },
+    {
+        "domain": "gmx.us",
+        "imap_server": "imap.gmx.us",
+        "pop3_server": "pop.gmx.us"
+    },
+    {
+        "domain": "gmx.li",
+        "imap_server": null,
+        "pop3_server": "pop.gmx.net"
+    },
+    {
+        "domain": "go.ro",
+        "imap_server": "mail.go.ro",
+        "pop3_server": "mail.go.ro"
+    },
+    {
+        "domain": "go2.pl",
+        "imap_server": "mail.go2.pl",
+        "pop3_server": "mail.go2.pl"
+    },
+    {
+        "domain": "gol.com",
+        "imap_server": "mail.gol.com",
+        "pop3_server": "mail.gol.com"
+    },
+    {
+        "domain": "gason.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "gportal.hu",
+        "imap_server": "mail.gportal.hu",
+        "pop3_server": "mail.gportal.hu"
+    },
+    {
+        "domain": "graduate.org",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "graphic-designer.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "googlemail.com",
+        "imap_server": "imap.googlemail.com",
+        "pop3_server": "pop.googlemail.com"
+    },
+    {
+        "domain": "gulftel.com",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "grin.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "grics.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "hackermail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "h-mail.us",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "hairdresser.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "hailmail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "hanmail.net",
+        "imap_server": "imap.hanmail.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "hardworking.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "hawaiiantel.net",
+        "imap_server": "mail.hawaiiantel.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "hawaii.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "heaven.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "hemmelig.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "hetnet.nl",
+        "imap_server": null,
+        "pop3_server": "pop.hetnet.nl"
+    },
+    {
+        "domain": "hilarious.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "hispeed.ch",
+        "imap_server": null,
+        "pop3_server": "pop.hispeed.ch"
+    },
+    {
+        "domain": "hockeymail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "hol.gr",
+        "imap_server": "imap.hol.gr",
+        "pop3_server": "pop.hol.gr"
+    },
+    {
+        "domain": "home.ro",
+        "imap_server": "mail.home.ro",
+        "pop3_server": "mail.home.ro"
+    },
+    {
+        "domain": "home.nl",
+        "imap_server": "imap.ziggo.nl",
+        "pop3_server": "pop.ziggo.nl"
+    },
+    {
+        "domain": "homestead.com",
+        "imap_server": "mail.homestead.com",
+        "pop3_server": "mail.homestead.com"
+    },
+    {
+        "domain": "homemail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "hot-shot.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "hot.ee",
+        "imap_server": "mail.hot.ee",
+        "pop3_server": "mail.hot.ee"
+    },
+    {
+        "domain": "hotmail.ch",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "hotbox.ru",
+        "imap_server": "mail.hotbox.ru",
+        "pop3_server": "mail.hotbox.ru"
+    },
+    {
+        "domain": "hot.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "hotmail.co.nz",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "hotmail.com.hk",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "hotmail.ca",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "hotmail.co.za",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "hotmail.co.uk",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "hotmail.com.au",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "hotmail.com",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "hotmail.de",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "hotmail.es",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "hotmail.fr",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "hotmail.se",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "hotmail.it",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "hotmail.nl",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "hotmail.ru",
+        "imap_server": "mail.hotmail.ru",
+        "pop3_server": "mail.hotmail.ru"
+    },
+    {
+        "domain": "hughes.net",
+        "imap_server": null,
+        "pop3_server": "mail.hughes.net"
+    },
+    {
+        "domain": "humanoid.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "hushmail.com",
+        "imap_server": "imap.hushmail.com",
+        "pop3_server": "pop.hushmail.com"
+    },
+    {
+        "domain": "hvc.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "i.ua",
+        "imap_server": null,
+        "pop3_server": "pop.i.ua"
+    },
+    {
+        "domain": "iafrica.com",
+        "imap_server": "imap.iafrica.com",
+        "pop3_server": "pop.iafrica.com"
+    },
+    {
+        "domain": "idirect.com",
+        "imap_server": "mail.idirect.com",
+        "pop3_server": "mail.idirect.com"
+    },
+    {
+        "domain": "i.softbank.jp",
+        "imap_server": "imap.softbank.jp",
+        "pop3_server": null
+    },
+    {
+        "domain": "ig.com.br",
+        "imap_server": "imap.ig.com.br",
+        "pop3_server": "pop.ig.com.br"
+    },
+    {
+        "domain": "iinet.net.au",
+        "imap_server": "mail.iinet.net.au",
+        "pop3_server": "mail.iinet.net.au"
+    },
+    {
+        "domain": "icloud.com",
+        "imap_server": "imap.mail.me.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "imap.cc",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "imapmail.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "imap-mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "iname.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "inbound.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "inbox.lv",
+        "imap_server": "mail.inbox.lv",
+        "pop3_server": "mail.inbox.lv"
+    },
+    {
+        "domain": "inbox.com",
+        "imap_server": "imap.inbox.com",
+        "pop3_server": "pop3.inbox.com"
+    },
+    {
+        "domain": "inbox.ru",
+        "imap_server": "imap.mail.ru",
+        "pop3_server": "pop.mail.ru"
+    },
+    {
+        "domain": "india.com",
+        "imap_server": "imap.india.com",
+        "pop3_server": "pop.india.com"
+    },
+    {
+        "domain": "info.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "inorbit.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "innocent.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "inmail.sk",
+        "imap_server": "imap.inmail.sk",
+        "pop3_server": "pop3.inmail.sk"
+    },
+    {
+        "domain": "insight.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "insightbb.com",
+        "imap_server": null,
+        "pop3_server": "mail.insightbb.com"
+    },
+    {
+        "domain": "insurer.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "instructor.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "instruction.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "interia.eu",
+        "imap_server": "imap.interia.eu",
+        "pop3_server": "pop3.interia.eu"
+    },
+    {
+        "domain": "internet-e-mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "infile.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "interia.pl",
+        "imap_server": "imap.interia.pl",
+        "pop3_server": "pop.interia.pl"
+    },
+    {
+        "domain": "internetmailing.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "internode.on.net",
+        "imap_server": "mail.internode.on.net",
+        "pop3_server": "mail.internode.on.net"
+    },
+    {
+        "domain": "io.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "inwind.it",
+        "imap_server": "imapmail.libero.it",
+        "pop3_server": "popmail.libero.it"
+    },
+    {
+        "domain": "iol.pt",
+        "imap_server": "imap.iol.pt",
+        "pop3_server": "pop.iol.pt"
+    },
+    {
+        "domain": "inoutbox.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "iprimus.com.au",
+        "imap_server": null,
+        "pop3_server": "pop.iprimus.com.au"
+    },
+    {
+        "domain": "indbakke.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "irelandmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "internetemails.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "iol.it",
+        "imap_server": "imapmail.libero.it",
+        "pop3_server": "popmail.libero.it"
+    },
+    {
+        "domain": "it.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "italymail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "japan.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "jetemail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "journalist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "jubii.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": null
+    },
+    {
+        "domain": "juno.com",
+        "imap_server": null,
+        "pop3_server": "pop.juno.com"
+    },
+    {
+        "domain": "justemail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "jyde.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "kabelmail.de",
+        "imap_server": "imap.kabelmail.de",
+        "pop3_server": "pop.kabelmail.de"
+    },
+    {
+        "domain": "katamail.com",
+        "imap_server": "imap.katamail.com",
+        "pop3_server": "pop.katamail.com"
+    },
+    {
+        "domain": "kc.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "keromail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "kimo.com",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "kittymail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "klog.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "knology.net",
+        "imap_server": null,
+        "pop3_server": "pop3.knology.net"
+    },
+    {
+        "domain": "knus.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "kolumbus.fi",
+        "imap_server": "mail.kolumbus.fi",
+        "pop3_server": "mail.kolumbus.fi"
+    },
+    {
+        "domain": "krudt.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "kpnplanet.nl",
+        "imap_server": "imap.kpnmail.nl",
+        "pop3_server": "pop.kpnmail.nl"
+    },
+    {
+        "domain": "koreamail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "kpnmail.nl",
+        "imap_server": "imap.kpnmail.nl",
+        "pop3_server": "pop.kpnmail.nl"
+    },
+    {
+        "domain": "laposte.net",
+        "imap_server": "imap.laposte.net",
+        "pop3_server": "pop.laposte.net"
+    },
+    {
+        "domain": "larsen.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "lazy.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "lawyer.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "legislator.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "lantic.net",
+        "imap_server": "imap.lantic.net",
+        "pop3_server": "pop3.lantic.net"
+    },
+    {
+        "domain": "letterboxes.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "libero.it",
+        "imap_server": "imapmail.libero.it",
+        "pop3_server": "popmail.libero.it"
+    },
+    {
+        "domain": "lineone.net",
+        "imap_server": "imap.tiscali.co.uk",
+        "pop3_server": "pop.tiscali.co.uk"
+    },
+    {
+        "domain": "linuxmail.org",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "live.ca",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.co.uk",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "list.ru",
+        "imap_server": "imap.mail.ru",
+        "pop3_server": "pop.mail.ru"
+    },
+    {
+        "domain": "live.cl",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.co.za",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.cn",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.at",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.be",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.com.mx",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.de",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.com.au",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.it",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.com",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.com.sg",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.hk",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.dk",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.com.my",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.fr",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.in",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.no",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.ie",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.nl",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "live.se",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "live.jp",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "london.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "loveable.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "lovecat.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "luukku.com",
+        "imap_server": "imap.luukku.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "love.com",
+        "imap_server": "imap.aol.com",
+        "pop3_server": "pop.aol.com"
+    },
+    {
+        "domain": "lycos.com",
+        "imap_server": "imap.lycos.com",
+        "pop3_server": "pop.lycos.com"
+    },
+    {
+        "domain": "lystig.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "ma.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "mac.com",
+        "imap_server": "imap.mail.me.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "madisonriver.biz",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "mad.scientist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "madonnafan.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "mail-central.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "madrid.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "mail-page.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "mail.dk",
+        "imap_server": "imap.mail.dk",
+        "pop3_server": "pop3.mail.dk"
+    },
+    {
+        "domain": "mail.bg",
+        "imap_server": "mail.mail.bg",
+        "pop3_server": "mail.mail.bg"
+    },
+    {
+        "domain": "mail.de",
+        "imap_server": "imap.mail.de",
+        "pop3_server": "pop.mail.de"
+    },
+    {
+        "domain": "mail.pf",
+        "imap_server": "imap.mail.pf",
+        "pop3_server": "pop.mail.pf"
+    },
+    {
+        "domain": "mail.ru",
+        "imap_server": "imap.mail.ru",
+        "pop3_server": "pop.mail.ru"
+    },
+    {
+        "domain": "mail2world.com",
+        "imap_server": "imap.mail2world.com",
+        "pop3_server": "pop.mail2world.com"
+    },
+    {
+        "domain": "mailas.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailandftp.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailcan.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailc.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailforce.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailftp.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailbolt.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailhaven.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailingaddress.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailnew.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailmight.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailsent.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailservice.ms",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailite.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mailworks.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "maine.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "marchmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "maskulin.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "mchsi.com",
+        "imap_server": null,
+        "pop3_server": "mail.mediacombb.net"
+    },
+    {
+        "domain": "me.com",
+        "imap_server": "mail.me.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "mexicomail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "mebtel.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "min-postkasse.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "minister.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "mindless.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "ml1.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mm.st",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mixbox.pl",
+        "imap_server": "mixbox.pl",
+        "pop3_server": "mixbox.pl"
+    },
+    {
+        "domain": "montevideo.com.uy",
+        "imap_server": "mail.montevideo.com.uy",
+        "pop3_server": "mail.montevideo.com.uy"
+    },
+    {
+        "domain": "moscowmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "msn.com",
+        "imap_server": "imap-mail.outlook.com",
+        "pop3_server": "pop-mail.outlook.com"
+    },
+    {
+        "domain": "munich.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "musician.org",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "muslim.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "musling.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "mweb.co.za",
+        "imap_server": "mail.mweb.co.za",
+        "pop3_server": "mail.mweb.co.za"
+    },
+    {
+        "domain": "myactv.net",
+        "imap_server": "mail.myactv.net",
+        "pop3_server": "mail.myactv.net"
+    },
+    {
+        "domain": "myfairpoint.net",
+        "imap_server": null,
+        "pop3_server": "mail.myfairpoint.net"
+    },
+    {
+        "domain": "myfastmail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mymacmail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "mydomain.com",
+        "imap_server": "imap.mydomain.com",
+        "pop3_server": "pop.mydomain.com"
+    },
+    {
+        "domain": "nate.com",
+        "imap_server": "imap.nate.com",
+        "pop3_server": "pop3.nate.com"
+    },
+    {
+        "domain": "natteliv.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "myself.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "naver.com",
+        "imap_server": "imap.naver.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "neb.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "neo.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "netcourrier.com",
+        "imap_server": "mail.netcourrier.com",
+        "pop3_server": "mail.netcourrier.com"
+    },
+    {
+        "domain": "netcologne.de",
+        "imap_server": "imap.netcologne.de",
+        "pop3_server": null
+    },
+    {
+        "domain": "netaddress.com",
+        "imap_server": null,
+        "pop3_server": "pop.netaddress.com"
+    },
+    {
+        "domain": "netfirms.com",
+        "imap_server": "imap.netfirms.com",
+        "pop3_server": "pop.netfirms.com"
+    },
+    {
+        "domain": "netins.net",
+        "imap_server": "mail.netins.net",
+        "pop3_server": "mail.netins.net"
+    },
+    {
+        "domain": "nc.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "netspace.net.au",
+        "imap_server": "imap.netspace.net.au",
+        "pop3_server": "pop.netspace.net.au"
+    },
+    {
+        "domain": "netvigator.com",
+        "imap_server": "imap.netvigator.com",
+        "pop3_server": "pop.netvigator.com"
+    },
+    {
+        "domain": "netscape.net",
+        "imap_server": "imap.aol.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "netvision.net.il",
+        "imap_server": null,
+        "pop3_server": "mail.netvision.net.il"
+    },
+    {
+        "domain": "neuf.fr",
+        "imap_server": "imap.sfr.fr",
+        "pop3_server": null
+    },
+    {
+        "domain": "netzero.net",
+        "imap_server": null,
+        "pop3_server": "pop.netzero.com"
+    },
+    {
+        "domain": "netzero.com",
+        "imap_server": null,
+        "pop3_server": "pop.netzero.com"
+    },
+    {
+        "domain": "newmail.ru",
+        "imap_server": "mail.newmail.ru",
+        "pop3_server": "mail.newmail.ru"
+    },
+    {
+        "domain": "new.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "netbruger.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "nospammail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "noos.fr",
+        "imap_server": "imap.noos.fr",
+        "pop3_server": "pop.noos.fr"
+    },
+    {
+        "domain": "ntelos.net",
+        "imap_server": "mail.ntelos.net",
+        "pop3_server": "mail.ntelos.net"
+    },
+    {
+        "domain": "ntlworld.com",
+        "imap_server": "imap.ntlworld.com",
+        "pop3_server": "pop.ntlworld.com"
+    },
+    {
+        "domain": "numericable.fr",
+        "imap_server": "imap.numericable.fr",
+        "pop3_server": "pop.numericable.fr"
+    },
+    {
+        "domain": "nurfuerspam.de",
+        "imap_server": "imap.nurfuerspam.de",
+        "pop3_server": "pop.nurfuerspam.de"
+    },
+    {
+        "domain": "nyc.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "nycmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "nycap.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "o2.pl",
+        "imap_server": null,
+        "pop3_server": "mail.o2.pl"
+    },
+    {
+        "domain": "oath.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "ocn.ne.jp",
+        "imap_server": null,
+        "pop3_server": "mail.ocn.ne.jp"
+    },
+    {
+        "domain": "oi.com.br",
+        "imap_server": "imap.oi.com.br",
+        "pop3_server": "pop.oi.com.br"
+    },
+    {
+        "domain": "oh.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "null.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "onet.eu",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": "pop3.poczta.onet.pl"
+    },
+    {
+        "domain": "onet.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": "pop3.poczta.onet.pl"
+    },
+    {
+        "domain": "online.de",
+        "imap_server": "imap.1und1.de",
+        "pop3_server": "pop.1und1.de"
+    },
+    {
+        "domain": "onet.com.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": null
+    },
+    {
+        "domain": "online.nl",
+        "imap_server": "imap.online.nl",
+        "pop3_server": "pop.online.nl"
+    },
+    {
+        "domain": "onlinehome.de",
+        "imap_server": "imap.onlinehome.de",
+        "pop3_server": "pop.onlinehome.de"
+    },
+    {
+        "domain": "op.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": "pop3.poczta.onet.pl"
+    },
+    {
+        "domain": "opoczta.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": null
+    },
+    {
+        "domain": "optonline.net",
+        "imap_server": "mail.optonline.net",
+        "pop3_server": "mail.optonline.net"
+    },
+    {
+        "domain": "optimum.net",
+        "imap_server": "mail.optimum.net",
+        "pop3_server": "mail.optimum.net"
+    },
+    {
+        "domain": "optusnet.com.au",
+        "imap_server": null,
+        "pop3_server": "mail.optusnet.com.au"
+    },
+    {
+        "domain": "orange.fr",
+        "imap_server": "imap.orange.fr",
+        "pop3_server": null
+    },
+    {
+        "domain": "orangehome.co.uk",
+        "imap_server": null,
+        "pop3_server": "pop.orangehome.co.uk"
+    },
+    {
+        "domain": "orange.mu",
+        "imap_server": null,
+        "pop3_server": "bow.intnet.mu"
+    },
+    {
+        "domain": "optician.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "otenet.gr",
+        "imap_server": "imap.otenet.gr",
+        "pop3_server": "mail.otenet.gr"
+    },
+    {
+        "domain": "outlook.com",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "outlook.be",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "outlook.de",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "outlook.dk",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "outlook.cz",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "outlook.fr",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "outlook.com.au",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "outlook.pt",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "ownmail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "ozemail.com.au",
+        "imap_server": "imap.ozemail.com.au",
+        "pop3_server": "pop.ozemail.com.au"
+    },
+    {
+        "domain": "pacbell.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "pacificwest.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "pandora.be",
+        "imap_server": "imap.telenet.be",
+        "pop3_server": "pop.telenet.be"
+    },
+    {
+        "domain": "panix.com",
+        "imap_server": "mail.panix.com",
+        "pop3_server": "mail.panix.com"
+    },
+    {
+        "domain": "paradise.net.nz",
+        "imap_server": null,
+        "pop3_server": "pop3.paradise.net.nz"
+    },
+    {
+        "domain": "pec.it",
+        "imap_server": "imaps.pec.aruba.it",
+        "pop3_server": "pop3s.pec.aruba.it"
+    },
+    {
+        "domain": "pedal.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "pengemand.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "petlover.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "petml.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "photographer.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "planet.nl",
+        "imap_server": "imap.kpnmail.nl",
+        "pop3_server": "pop.kpnmail.nl"
+    },
+    {
+        "domain": "playful.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "pobox.com",
+        "imap_server": "mail.pobox.com",
+        "pop3_server": "mail.pobox.com"
+    },
+    {
+        "domain": "poczta.fm",
+        "imap_server": "imap.poczta.fm",
+        "pop3_server": "pop3.poczta.fm"
+    },
+    {
+        "domain": "poetic.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "pochta.ru",
+        "imap_server": "mail.pochta.ru",
+        "pop3_server": "mail.pochta.ru"
+    },
+    {
+        "domain": "poczta.onet.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": "pop3.poczta.onet.pl"
+    },
+    {
+        "domain": "pokerface.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "politician.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "popstar.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "post.cz",
+        "imap_server": "imap.post.cz",
+        "pop3_server": "pop3.post.cz"
+    },
+    {
+        "domain": "portugalmail.pt",
+        "imap_server": "imap.portugalmail.pt",
+        "pop3_server": "pop.portugalmail.pt"
+    },
+    {
+        "domain": "post.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "posteo.de",
+        "imap_server": "mail.posteo.de",
+        "pop3_server": "mail.posteo.de"
+    },
+    {
+        "domain": "poczta.onet.eu",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": "pop3.poczta.onet.pl"
+    },
+    {
+        "domain": "postinbox.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "postman.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "postpro.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "poste.it",
+        "imap_server": "mail.poste.it",
+        "pop3_server": "mail.poste.it"
+    },
+    {
+        "domain": "presidency.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "priest.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "privatmail.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "programmer.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "promessage.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "prodigy.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "proinbox.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "publicist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "prodigy.net.mx",
+        "imap_server": null,
+        "pop3_server": "pop.prodigy.net.mx"
+    },
+    {
+        "domain": "q.com",
+        "imap_server": "mail.q.com",
+        "pop3_server": "mail.q.com"
+    },
+    {
+        "domain": "qip.ru",
+        "imap_server": "imap.qip.ru",
+        "pop3_server": "pop.qip.ru"
+    },
+    {
+        "domain": "ptd.net",
+        "imap_server": "promail.ptd.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "qq.com",
+        "imap_server": "imap.qq.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "quake.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "qwest.net",
+        "imap_server": "mail.centurylink.net",
+        "pop3_server": "pop.centurylink.net"
+    },
+    {
+        "domain": "quicknet.nl",
+        "imap_server": "imap.ziggo.nl",
+        "pop3_server": "pop.ziggo.nl"
+    },
+    {
+        "domain": "qwestoffice.net",
+        "imap_server": null,
+        "pop3_server": "pop.qwestoffice.net"
+    },
+    {
+        "domain": "rambler.ru",
+        "imap_server": "mail.rambler.ru",
+        "pop3_server": "mail.rambler.ru"
+    },
+    {
+        "domain": "rapidnet.com",
+        "imap_server": "mail.rapidnet.com",
+        "pop3_server": "mail.rapidnet.com"
+    },
+    {
+        "domain": "rcn.com",
+        "imap_server": null,
+        "pop3_server": "pop.rcn.com"
+    },
+    {
+        "domain": "ready.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "reagan.com",
+        "imap_server": "secure.emailsrvr.com",
+        "pop3_server": "secure.emailsrvr.com"
+    },
+    {
+        "domain": "realtyagent.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "reallyfast.biz",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "realemail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "reborn.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "reallyfast.info",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "rediffmailpro.com",
+        "imap_server": "imap.rediffmailpro.com",
+        "pop3_server": "pop.rediffmailpro.com"
+    },
+    {
+        "domain": "rediffmail.com",
+        "imap_server": null,
+        "pop3_server": "pop.rediffmail.com"
+    },
+    {
+        "domain": "reggaefan.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "religious.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "representative.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "repairman.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "rescueteam.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "revenue.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "rochester.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "rocketship.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "rocketmail.com",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "rockfan.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "rogers.com",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.broadband.rogers.com"
+    },
+    {
+        "domain": "rome.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "royal.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "roadrunner.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "runbox.com",
+        "imap_server": "mail.runbox.com",
+        "pop3_server": "mail.runbox.com"
+    },
+    {
+        "domain": "rushpost.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "saintly.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "sakura.ne.jp",
+        "imap_server": "imap.sakura.ne.jp",
+        "pop3_server": "pop3.sakura.ne.jp"
+    },
+    {
+        "domain": "salesperson.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "san.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "sanfranmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "saol.com",
+        "imap_server": "mail.saol.com",
+        "pop3_server": "mail.saol.com"
+    },
+    {
+        "domain": "sapo.pt",
+        "imap_server": "imap.sapo.pt",
+        "pop3_server": null
+    },
+    {
+        "domain": "satx.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "sbb.rs",
+        "imap_server": "imap.sbb.rs",
+        "pop3_server": "pop3.sbb.rs"
+    },
+    {
+        "domain": "sbcglobal.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "sc.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "scarlet.nl",
+        "imap_server": "mail.scarlet.nl",
+        "pop3_server": "mail.scarlet.nl"
+    },
+    {
+        "domain": "sccoast.net",
+        "imap_server": "imap.sccoast.net",
+        "pop3_server": "pop.sccoast.net"
+    },
+    {
+        "domain": "scientist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "sci.fi",
+        "imap_server": null,
+        "pop3_server": "pop.sci.fi"
+    },
+    {
+        "domain": "scotlandmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "secretary.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "seanet.com",
+        "imap_server": null,
+        "pop3_server": "mail.seanet.com"
+    },
+    {
+        "domain": "secret.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "seductive.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "sent.at",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "sent.as",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "sent.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "seznam.cz",
+        "imap_server": "imap.seznam.cz",
+        "pop3_server": "pop.seznam.cz"
+    },
+    {
+        "domain": "sfr.fr",
+        "imap_server": "imap.sfr.fr",
+        "pop3_server": null
+    },
+    {
+        "domain": "shaw.ca",
+        "imap_server": null,
+        "pop3_server": "pop.shaw.ca"
+    },
+    {
+        "domain": "singnet.com.sg",
+        "imap_server": null,
+        "pop3_server": "pop.singnet.com.sg"
+    },
+    {
+        "domain": "sina.com",
+        "imap_server": null,
+        "pop3_server": "pop.sina.com"
+    },
+    {
+        "domain": "singapore.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "skynet.be",
+        "imap_server": "imap.proximus.be",
+        "pop3_server": null
+    },
+    {
+        "domain": "sky.com",
+        "imap_server": "imap.tools.sky.com",
+        "pop3_server": "pop.tools.sky.com"
+    },
+    {
+        "domain": "sleepy.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "slingshot.co.nz",
+        "imap_server": "imap.slingshot.co.nz",
+        "pop3_server": "pop3.slingshot.co.nz"
+    },
+    {
+        "domain": "snakebite.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "snet.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "socal.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "sohu.com",
+        "imap_server": null,
+        "pop3_server": "pop3.sohu.com"
+    },
+    {
+        "domain": "solcon.nl",
+        "imap_server": "imap.solcon.nl",
+        "pop3_server": "pop.solcon.nl"
+    },
+    {
+        "domain": "sonic.net",
+        "imap_server": "imap.sonic.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "songwriter.net",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "soon.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "spainmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "spamarrest.com",
+        "imap_server": "mail.spamarrest.com",
+        "pop3_server": "mail.spamarrest.com"
+    },
+    {
+        "domain": "speedy.com.ar",
+        "imap_server": null,
+        "pop3_server": "pop.speedy.com.ar"
+    },
+    {
+        "domain": "speedymail.org",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "speedpost.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "spoko.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": null
+    },
+    {
+        "domain": "sporty.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "ssl-mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "stny.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "stipte.nl",
+        "imap_server": "mail.stipte.nl",
+        "pop3_server": "mail.stipte.nl"
+    },
+    {
+        "domain": "stx.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "suddenlink.net",
+        "imap_server": null,
+        "pop3_server": "pop.suddenlink.net"
+    },
+    {
+        "domain": "suddenlinkmail.com",
+        "imap_server": "imap.suddenlinkmail.com",
+        "pop3_server": "pop.suddenlinkmail.com"
+    },
+    {
+        "domain": "suomi24.fi",
+        "imap_server": "imap.suomi24.fi",
+        "pop3_server": null
+    },
+    {
+        "domain": "supereva.it",
+        "imap_server": "mail.supereva.it",
+        "pop3_server": "mail.supereva.it"
+    },
+    {
+        "domain": "superbruger.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "superig.com.br",
+        "imap_server": "imap.ig.com.br",
+        "pop3_server": "pop.ig.com.br"
+    },
+    {
+        "domain": "swbell.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "swedenmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "swift-mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "swissonline.ch",
+        "imap_server": "mail.swissonline.ch",
+        "pop3_server": "mail.swissonline.ch"
+    },
+    {
+        "domain": "sympatico.ca",
+        "imap_server": null,
+        "pop3_server": "pophm.sympatico.ca"
+    },
+    {
+        "domain": "t-online.hu",
+        "imap_server": "mail.t-online.hu",
+        "pop3_server": "mail.t-online.hu"
+    },
+    {
+        "domain": "t-online.de",
+        "imap_server": "secureimap.t-online.de",
+        "pop3_server": null
+    },
+    {
+        "domain": "talktalk.net",
+        "imap_server": "mail.talktalk.net",
+        "pop3_server": "mail.talktalk.net"
+    },
+    {
+        "domain": "talent.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "talktalk.co.uk",
+        "imap_server": "mail.talktalk.net",
+        "pop3_server": "mail.talktalk.net"
+    },
+    {
+        "domain": "talk21.com",
+        "imap_server": "mail.btinternet.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "tanke.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "tampabay.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "tds.net",
+        "imap_server": "mail.tds.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "teachers.org",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "taxidriver.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "techie.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "technologist.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "teens.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "tele2.nl",
+        "imap_server": "imap.tele2.nl",
+        "pop3_server": "pop.tele2.nl"
+    },
+    {
+        "domain": "teknik.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "telefonica.net",
+        "imap_server": "imap.telefonica.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "telfort.nl",
+        "imap_server": "imap.telfort.nl",
+        "pop3_server": "pop3.telfort.nl"
+    },
+    {
+        "domain": "telenet.be",
+        "imap_server": "imap.telenet.be",
+        "pop3_server": "pop.telenet.be"
+    },
+    {
+        "domain": "telfortglasvezel.nl",
+        "imap_server": "imap.telfortglasvezel.nl",
+        "pop3_server": "pop3.telfortglasvezel.nl"
+    },
+    {
+        "domain": "telia.com",
+        "imap_server": "mailin.telia.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "telus.net",
+        "imap_server": "imap.telus.net",
+        "pop3_server": "pop.telus.net"
+    },
+    {
+        "domain": "telepac.pt",
+        "imap_server": null,
+        "pop3_server": "pop.telepac.pt"
+    },
+    {
+        "domain": "telkomsa.net",
+        "imap_server": "imap.telkomsa.net",
+        "pop3_server": "pop3.telkomsa.net"
+    },
+    {
+        "domain": "telstra.com",
+        "imap_server": "imap.telstra.com",
+        "pop3_server": "pop.telstra.com"
+    },
+    {
+        "domain": "tesco.net",
+        "imap_server": null,
+        "pop3_server": "mail.tesco.net"
+    },
+    {
+        "domain": "terra.es",
+        "imap_server": "imap.terra.com",
+        "pop3_server": "pop.terra.com"
+    },
+    {
+        "domain": "terra.com.br",
+        "imap_server": null,
+        "pop3_server": "pop.sao.terra.com.br"
+    },
+    {
+        "domain": "the-fastest.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "the-quickest.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "theinternetemail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "tim.it",
+        "imap_server": "box.posta.tim.it",
+        "pop3_server": null
+    },
+    {
+        "domain": "tin.it",
+        "imap_server": "box.tin.it",
+        "pop3_server": null
+    },
+    {
+        "domain": "tlen.pl",
+        "imap_server": "imap.tlen.pl",
+        "pop3_server": "pop.tlen.pl"
+    },
+    {
+        "domain": "tjekket.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "tiscali.co.uk",
+        "imap_server": "imap.tiscali.co.uk",
+        "pop3_server": "pop.tiscali.co.uk"
+    },
+    {
+        "domain": "tiscali.it",
+        "imap_server": "imap.tiscali.it",
+        "pop3_server": null
+    },
+    {
+        "domain": "toke.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "tom.com",
+        "imap_server": null,
+        "pop3_server": "pop.tom.com"
+    },
+    {
+        "domain": "tokyo.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "topmail-files.de",
+        "imap_server": "imap.topmail-files.de",
+        "pop3_server": "pop.topmail-files.de"
+    },
+    {
+        "domain": "toothfairy.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "toothandmail.com",
+        "imap_server": "mail.toothandmail.com",
+        "pop3_server": "mail.toothandmail.com"
+    },
+    {
+        "domain": "tpg.com.au",
+        "imap_server": "mail.tpg.com.au",
+        "pop3_server": "mail.tpg.com.au"
+    },
+    {
+        "domain": "triad.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "tvstar.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "tx.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "twcny.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "ufl.edu",
+        "imap_server": "mail.ufl.edu",
+        "pop3_server": null
+    },
+    {
+        "domain": "uk2.net",
+        "imap_server": "mail.uk2.net",
+        "pop3_server": "mail.uk2.net"
+    },
+    {
+        "domain": "twc.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "ukr.net",
+        "imap_server": "imap.ukr.net",
+        "pop3_server": "pop.ukr.net"
+    },
+    {
+        "domain": "uku.co.uk",
+        "imap_server": "mail.uku.co.uk",
+        "pop3_server": "mail.uku.co.uk"
+    },
+    {
+        "domain": "umpire.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "unforgettable.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "ungdom.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "uni.de",
+        "imap_server": "mail.uni.de",
+        "pop3_server": "mail.uni.de"
+    },
+    {
+        "domain": "unitybox.de",
+        "imap_server": "mail.unitybox.de",
+        "pop3_server": "mail.unitybox.de"
+    },
+    {
+        "domain": "unseen.is",
+        "imap_server": "mail.unseen.is",
+        "pop3_server": "mail.unseen.is"
+    },
+    {
+        "domain": "uol.com.br",
+        "imap_server": "imap.uol.com.br",
+        "pop3_server": "pop3.uol.com.br"
+    },
+    {
+        "domain": "upcmail.nl",
+        "imap_server": "imap.ziggo.nl",
+        "pop3_server": "pop.ziggo.nl"
+    },
+    {
+        "domain": "upcmail.ie",
+        "imap_server": "imap.upcmail.ie",
+        "pop3_server": "pop.upcmail.ie"
+    },
+    {
+        "domain": "ureach.com",
+        "imap_server": "mail.ureach.com",
+        "pop3_server": "mail.ureach.com"
+    },
+    {
+        "domain": "umich.edu",
+        "imap_server": "imap.gmail.com",
+        "pop3_server": "pop.gmail.com"
+    },
+    {
+        "domain": "usa.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "uymail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "verizon.net",
+        "imap_server": null,
+        "pop3_server": "pop.verizon.net"
+    },
+    {
+        "domain": "veryfast.biz",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "vfemail.net",
+        "imap_server": "mail.vfemail.net",
+        "pop3_server": "mail.vfemail.net"
+    },
+    {
+        "domain": "veryspeedy.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "video.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "videotron.ca",
+        "imap_server": "imap.videotron.ca",
+        "pop3_server": "pop.videotron.ca"
+    },
+    {
+        "domain": "vip.gr",
+        "imap_server": "mail.vip.gr",
+        "pop3_server": "mail.vip.gr"
+    },
+    {
+        "domain": "vip.188.com",
+        "imap_server": "appleimap.188.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "vip.126.com",
+        "imap_server": "appleimap.vip.126.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "vip.onet.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": null
+    },
+    {
+        "domain": "virgin.net",
+        "imap_server": "imap.virginmedia.com",
+        "pop3_server": "pop3.virginmedia.com"
+    },
+    {
+        "domain": "virgilio.it",
+        "imap_server": null,
+        "pop3_server": "in.virgilio.it"
+    },
+    {
+        "domain": "versatel.nl",
+        "imap_server": null,
+        "pop3_server": "pop.versatel.nl"
+    },
+    {
+        "domain": "virginmedia.com",
+        "imap_server": "imap.virginmedia.com",
+        "pop3_server": "pop3.virginmedia.com"
+    },
+    {
+        "domain": "virginbroadband.com.au",
+        "imap_server": null,
+        "pop3_server": "mail.virginbroadband.com.au"
+    },
+    {
+        "domain": "vittig.dk",
+        "imap_server": "imap.jubii.dk",
+        "pop3_server": "imap.jubii.dk"
+    },
+    {
+        "domain": "vodafonethuis.nl",
+        "imap_server": "mail.vodafonethuis.nl",
+        "pop3_server": "mail.vodafonethuis.nl"
+    },
+    {
+        "domain": "vip.qq.com",
+        "imap_server": "imap.qq.com",
+        "pop3_server": null
+    },
+    {
+        "domain": "volny.cz",
+        "imap_server": "imap.volny.cz",
+        "pop3_server": "pop.volny.cz"
+    },
+    {
+        "domain": "vp.pl",
+        "imap_server": "imap.poczta.onet.pl",
+        "pop3_server": "pop3.poczta.onet.pl"
+    },
+    {
+        "domain": "warpmail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "web.de",
+        "imap_server": "imap.web.de",
+        "pop3_server": null
+    },
+    {
+        "domain": "webname.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "wanadoo.fr",
+        "imap_server": "imap.wanadoo.fr",
+        "pop3_server": "pop.wanadoo.fr"
+    },
+    {
+        "domain": "westnet.com.au",
+        "imap_server": "mail.westnet.com.au",
+        "pop3_server": "mail.westnet.com.au"
+    },
+    {
+        "domain": "wildblue.net",
+        "imap_server": "imap.gmail.com",
+        "pop3_server": "pop.gmail.com"
+    },
+    {
+        "domain": "wi.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "whoever.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "windowslive.com",
+        "imap_server": "outlook.office365.com",
+        "pop3_server": "outlook.office365.com"
+    },
+    {
+        "domain": "windstream.net",
+        "imap_server": null,
+        "pop3_server": "pop.windstream.net"
+    },
+    {
+        "domain": "witty.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "wo.com.cn",
+        "imap_server": null,
+        "pop3_server": "pop.wo.com.cn"
+    },
+    {
+        "domain": "winning.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "woh.rr.com",
+        "imap_server": "mail.twc.com",
+        "pop3_server": "mail.twc.com"
+    },
+    {
+        "domain": "worker.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "workmail.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "worldnet.att.net",
+        "imap_server": "imap.mail.att.net",
+        "pop3_server": "inbound.att.net"
+    },
+    {
+        "domain": "wp.pl",
+        "imap_server": "imap.wp.pl",
+        "pop3_server": null
+    },
+    {
+        "domain": "writeme.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "wowway.com",
+        "imap_server": "mail.wowway.com",
+        "pop3_server": "mail.wowway.com"
+    },
+    {
+        "domain": "xplornet.com",
+        "imap_server": "imap.xplornet.com",
+        "pop3_server": "pop.xplornet.com"
+    },
+    {
+        "domain": "xs4all.nl",
+        "imap_server": "mail.xs4all.nl",
+        "pop3_server": "mail.xs4all.nl"
+    },
+    {
+        "domain": "xtra.co.nz",
+        "imap_server": "imap.xtra.co.nz",
+        "pop3_server": "pop3.xtra.co.nz"
+    },
+    {
+        "domain": "xsmail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "y7mail.com",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "ya.ru",
+        "imap_server": "imap.yandex.com",
+        "pop3_server": "pop.yandex.com"
+    },
+    {
+        "domain": "yahoo.co.jp",
+        "imap_server": "imap.mail.yahoo.co.jp",
+        "pop3_server": null
+    },
+    {
+        "domain": "yahoo.cn",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.ca",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.co.kr",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.co.id",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.co.nz",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.co.in",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.au",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.co.za",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.co.th",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.co.uk",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.ar",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.br",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.hk",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.ph",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.cn",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.co",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.pe",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.sg",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.tr",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.gr",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.ve",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.es",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.cz",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.hu",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.de",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.in",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.vn",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.ru",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.fr",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.it",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.ie",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.pl",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.se",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yandex.com",
+        "imap_server": "imap.yandex.com",
+        "pop3_server": "pop.yandex.com"
+    },
+    {
+        "domain": "yahoo.no",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yandex.by",
+        "imap_server": "imap.yandex.com",
+        "pop3_server": "pop.yandex.com"
+    },
+    {
+        "domain": "yandex.ua",
+        "imap_server": "imap.yandex.com",
+        "pop3_server": "pop.yandex.com"
+    },
+    {
+        "domain": "yandex.kz",
+        "imap_server": "imap.yandex.com",
+        "pop3_server": "pop.yandex.com"
+    },
+    {
+        "domain": "yandex.com.tr",
+        "imap_server": "imap.yandex.com",
+        "pop3_server": "pop.yandex.com"
+    },
+    {
+        "domain": "yandex.ru",
+        "imap_server": "imap.yandex.com",
+        "pop3_server": "pop.yandex.com"
+    },
+    {
+        "domain": "ybb.ne.jp",
+        "imap_server": "imap.mail.yahoo.co.jp",
+        "pop3_server": null
+    },
+    {
+        "domain": "yeah.net",
+        "imap_server": "appleimap.yeah.net",
+        "pop3_server": null
+    },
+    {
+        "domain": "yahoo.com.tw",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yepmail.net",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "yahoo.com.my",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.com.mx",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.ro",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "ymail.com",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "yahoo.dk",
+        "imap_server": "imap.mail.yahoo.com",
+        "pop3_server": "pop.mail.yahoo.com"
+    },
+    {
+        "domain": "your-mail.com",
+        "imap_server": "imap.fastmail.com",
+        "pop3_server": "pop.fastmail.com"
+    },
+    {
+        "domain": "yours.com",
+        "imap_server": "imap.mail.com",
+        "pop3_server": "pop.mail.com"
+    },
+    {
+        "domain": "zahav.net.il",
+        "imap_server": null,
+        "pop3_server": "in.zahav.net.il"
+    },
+    {
+        "domain": "zeelandnet.nl",
+        "imap_server": "mail.zeelandnet.nl",
+        "pop3_server": "mail.zeelandnet.nl"
+    },
+    {
+        "domain": "ziggo.nl",
+        "imap_server": "imap.ziggo.nl",
+        "pop3_server": "pop.ziggo.nl"
+    },
+    {
+        "domain": "zoho.com",
+        "imap_server": "imap.zoho.com",
+        "pop3_server": "pop.zoho.com"
+    },
+    {
+        "domain": "zonnet.nl",
+        "imap_server": null,
+        "pop3_server": "pop.zonnet.nl"
+    },
+    {
+        "domain": "zoominternet.net",
+        "imap_server": "imap.zoominternet.net",
+        "pop3_server": "pop3.zoominternet.net"
+    }
+]
